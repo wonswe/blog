@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: "wonswe.github.io/blog"
+  baseUrl: "juwon.coffee"
   ignorePatterns:
     - private
     - templates
