@@ -1,4 +1,4 @@
 ---
-title: Tasting
+title: Cupping
 ---
 notes on coffee tasting
