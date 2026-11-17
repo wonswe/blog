@@ -1,4 +1,4 @@
 ---
 title: Brewing
 ---
-notes on brewing coffee.
+notes on brewing coffee
