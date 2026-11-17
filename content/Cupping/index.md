@@ -1,4 +1,4 @@
 ---
 title: Tasting
 ---
-Notes on tasting coffee.
+notes on coffee tasting

@@ -1,4 +1,4 @@
 ---
 title: Processing
 ---
-Notes on coffee processing.
+notes on coffee processing.

@@ -1,4 +1,4 @@
 ---
 title: Origins
 ---
-Notes on coffee origins.
+notes on coffee origins

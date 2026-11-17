@@ -1,4 +1,4 @@
 ---
 title: Espresso
 ---
-Notes on espresso.
+notes on espresso
