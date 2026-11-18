@@ -1,4 +1,4 @@
 ---
-title: Ethiopia
+title: ethiopia
 ---
 coffee origin study notes

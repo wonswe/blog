@@ -1,4 +1,4 @@
 ---
-title: Pourover
+title: pourover
 ---
 notes on pourover coffee

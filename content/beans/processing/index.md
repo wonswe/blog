@@ -1,4 +1,4 @@
 ---
-title: Processing
+title: processing
 ---
 notes on coffee processing
