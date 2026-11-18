@@ -1,4 +1,4 @@
 ---
-title: Coffee
+title: coffee
 ---
 notes on coffee

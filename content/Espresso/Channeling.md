@@ -1,5 +1,5 @@
 ---
-title: "Channeling"
+title: channeling
 ---
 ## Notes
 

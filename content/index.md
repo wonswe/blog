@@ -1,4 +1,3 @@
 ---
-title: Coffee Notes
+title: on coffee
 ---
-Learning coffee.
