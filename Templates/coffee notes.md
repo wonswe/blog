@@ -5,7 +5,8 @@ coffee:
 origin:
 process:
 ---
-## 노트
+## 커피 이름
 
+## 노트
 
 ## 좋았던 점
