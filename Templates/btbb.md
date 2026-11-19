@@ -3,9 +3,10 @@ date: 2026-11-19
 cafe: born to be blue
 origin: 에티오피아
 coffee: 아르베고나 콰미 2026 AFCA TOH 1위
-process: 내추럴
 region: Sidama Region Arbegona Woreda Bochesa Washing Station
+varieties: "74158"
 altitude: 1,900m - 2,300m
+process: 내추럴
 tags:
   - 에티오피아
   - 내추럴
@@ -20,7 +21,6 @@ Sidama Region Arbegona Woreda Bochesa Washing Station
 ### tasting notes
 살구, 서양배, 베르가못, 애플민트
 apricot, pear, bergamot, apple mint
-
 ### notes
 
 
