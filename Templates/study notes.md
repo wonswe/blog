@@ -1,11 +1,12 @@
 ---
+date:
 title: "{{title}}"
 ---
 
-## Notes
+## notes
 
 
 
-## Questions
+## questions
 
 - 
