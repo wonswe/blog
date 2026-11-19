@@ -1,1 +1,2 @@
-![[pingu_study.jpg]]
+![[pingu_study.jpg]]  
+。。。
