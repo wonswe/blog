@@ -10,12 +10,15 @@ process: 내추럴
 tags:
   - 에티오피아
   - 내추럴
+  - v74158
 ---
 ### name
 에티오피아 콰미 아르베고나 내추럴 2026 AFCA TOH 1위  
 Ethiopia Kwame Arbegona Natural 2026 AFCA TOH 1st
 ### region
 Sidama Region Arbegona Woreda Bochesa Washing Station
+### varieties
+74158
 ### altitude
 1,900m - 2,300m
 ### tasting notes
