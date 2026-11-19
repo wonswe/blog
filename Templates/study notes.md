@@ -1,8 +1,8 @@
 ---
 date:
-title: "{{title}}"
 ---
 ## notes
 
-
 ## questions
+
+## answers
