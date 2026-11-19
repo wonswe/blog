@@ -1,3 +1,2 @@
 ![[pingu_study.jpg]]
-
 。。。
