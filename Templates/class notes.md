@@ -1,5 +1,6 @@
 ---
 date:
+class:
 ---
 ## notes
 
