@@ -159,14 +159,14 @@ plugins:
       position: beforeBody
       priority: 10
   - source: "@quartz-community/content-meta"
-    enabled: true
+    enabled: false
     layout:
       position: beforeBody
       priority: 20
   - source: "@quartz-community/tag-list"
     enabled: false
     layout:
-      position: beforeBody
+      position: afterBody
       priority: 30
   - source: "@quartz-community/page-title"
     enabled: true
