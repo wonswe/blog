@@ -7,6 +7,7 @@ region: Sidama Region Arbegona Woreda Bochesa Washing Station
 varieties: "74158"
 altitude: 1,900m - 2,300m
 process: 내추럴
+hot/iced:
 tags:
   - 에티오피아
   - 내추럴
