@@ -4,6 +4,4 @@ class:
 ---
 ## notes
 
-## questions
-
-## answers
+## q & a
